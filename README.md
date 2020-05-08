@@ -1,8 +1,8 @@
 # eis2020tmc5
 <<<<<<< HEAD
 # this is cjm'part
-hello this is cjm readme txt
-cjm yeah
+hello this is cjm cjm yeah readme txt
+
 =======
 # this is zzm'part
 hello this is zzm readme txt
