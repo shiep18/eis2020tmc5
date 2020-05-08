@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 # this is zzm'part
 hello this is cjm readme txt
-
+cjm
 =======
 # this is zzm'part
 hello this is zzm readme txt
