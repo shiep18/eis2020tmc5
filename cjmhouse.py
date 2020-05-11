@@ -1,6 +1,6 @@
 import mcpi.minecraft as minecraft
 import mcpi.block as block
-
+# this is cjm'part 5.11
 mc=minecraft.Minecraft.create('47.100.46.95',4785)
 print("i am cjm")
 fname = "pos.csv"
