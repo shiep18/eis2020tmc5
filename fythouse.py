@@ -10,7 +10,7 @@ for line in f.readlines():
     for cell in data:
         if cell == "clancenter":
             center_x=data[1]
-            center_y=data[2]
+            center_y=data[2]  #abcdefg
             center_z=data[3]
         elif cell == "fyt":
             offset_x=data[1]
