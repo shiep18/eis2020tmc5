@@ -1,6 +1,6 @@
 import mcpi.minecraft as minecraft
 import mcpi.block as block
-
+#zzm'house
 mc=minecraft.Minecraft.create('47.100.46.95',4785)
 
 fname = "pos.csv"

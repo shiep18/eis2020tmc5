@@ -10,7 +10,7 @@ for line in f.readlines():
     for cell in data:
         if cell == "clancenter":
             center_x=data[1]
-            center_y=data[2]
+            center_y=data[2]  #abcdefg
             center_z=data[3]
         elif cell == "fyt":
             offset_x=data[1]
@@ -53,6 +53,6 @@ def build(xo=0, yo=0, zo=0, L=10, W=10, H=20, M=42):
 
 
 
-
 build(x, y, z)
 
+#2020.5.11
